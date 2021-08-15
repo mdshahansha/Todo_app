@@ -8,15 +8,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ami1708/TO-DO-APP.git"
+    "type": "git"
+    
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ami1708/TO-DO-APP/issues"
+    
   },
-  "homepage": "https://github.com/ami1708/TO-DO-APP#readme",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
