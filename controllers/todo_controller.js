@@ -27,7 +27,7 @@ module.exports.todolist = (req, res) => {
             return res.render('home', {
 
                 title: "My contact list",
-                Todo_List: contacts,
+                Todo_List: TodoList,
             });
 
         });
